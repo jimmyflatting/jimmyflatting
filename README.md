@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I’m Jimmy, a software engineer based in Sweden.
 
-By day I work as a Platform/MLDevSecOps engineer and by night I’m working on [lemon.js](https://github.com/jimmyflatting/lemonjs), a fullstack MVC framework for Node.js with JSX templating.
+By day I work as a Platform/MLDevSecOps engineer and by night I’m working on [citron.js](https://github.com/jimmyflatting/citron), a fullstack MVC framework for Node.js with JSX templating.
 
 I like to experiment with building my own providers for Terraform, and also CRD’s for Kubernetes.
 
