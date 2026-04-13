@@ -1,29 +1,15 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/nelson-ong-97">
+    <img src="https://raw.githubusercontent.com/jimmyflatting/jimmyflatting/main/github-metrics.svg" alt="Metrics" />
+  </a>
+</p>
 
-<!--
-**jimmyflatting/jimmyflatting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind,nodejs,nestjs,postgres,redis,prisma,aws,vercel,supabase,docker,git,github&perline=8" alt="My Skills" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-I’m Jimmy, a software engineer based in Sweden.
-
-By day I work as a Platform/MLDevSecOps engineer and by night I’m working on [citron.js](https://github.com/jimmyflatting/citron), a fullstack MVC framework for Node.js with JSX templating.
-
-I like to experiment with building my own providers for Terraform, and also CRD’s for Kubernetes.
-
-My main tech stack is:
-- Typescript
-- Python
-- Golang
-- Kubernetes
-- Terraform
+Hello, Jimmy here, a software engineer with more than 5 years of experience in different front-end and back-end technologies. I build production-ready SaaS products from idea to deployment.
