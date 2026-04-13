@@ -19,13 +19,3 @@ jobs:
 
           # Include private contributions in the counts
           base_indepth: yes
-
-          # Contribution calendar — flat yearly heatmaps (full history)
-          plugin_calendar: yes
-          plugin_calendar_limit: 3
-
-          # Lines of code changed
-          plugin_lines: yes
-
-          # Timezone
-          config_timezone: Europe/Stockholm
