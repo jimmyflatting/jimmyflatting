@@ -1,11 +1,9 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/jimmyflatting/jimmyflatting/main/github-metrics.svg" alt="Metrics" />
-</p>
+Hi, I'm Jimmy.
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,python,tailwind,nodejs,nestjs,postgres,redis,prisma,aws,vercel,supabase,docker,git,github&perline=8" alt="My Skills" />
-</p>
+I spend most of my time at the intersection of finance and machine learning.
 
----
+- Currently hacking on AI/ML projects and LLM tooling
+- Particularly interested in distributed systems and AI agents
+- Based in Sweden
 
-Hello, Jimmy here, a software engineer with more than 5 years of experience in different front-end and back-end technologies. I build production-ready SaaS products from idea to deployment.
+Most of what I push here is experimental, things I'm curious about or learning in public.
